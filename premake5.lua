@@ -20,7 +20,7 @@ project "GLFW"
 
 	filter "system:windows"
 		systemversion "latest"
-		staticruntime "off"
+		staticruntime "On"
 
 		files
 		{
